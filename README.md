@@ -8,4 +8,4 @@
 
 - NodeJS / ExpressJS / NestJS
 
-🥅 2023 Goals: Contribute to Open Source projects 7 learn MERN.
+🥅 2023 Goals: Contribute to Open Source projects

@@ -14,7 +14,9 @@ I'm a Fullstack Developer specializing in JavaScript, TypeScript, React.js, Next
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Playwright]()
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+
 
 ## 🤝 Connect with Me
 
